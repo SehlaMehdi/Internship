@@ -10,18 +10,18 @@ Why VS?
 
  Some of the Features and Benefits of VS Code for Data Science and Machine Learning
 1. Rich Extension Ecosystem:
-•	Python Extension: Provides essential features like linting, debugging, code formatting, and IntelliSense for Python development.
-•	Jupyter Extension: Supports Jupyter Notebooks directly within VS Code, enabling interactive data exploration, visualization, and documentation.
-•	Extensions for Data Science: Includes extensions for data visualization (e.g., Matplotlib, Plotly), data manipulation (e.g., Pandas), and machine learning frameworks (e.g., TensorFlow, PyTorch).
+      •	Python Extension: Provides essential features like linting, debugging, code formatting, and IntelliSense for Python development.
+      •	Jupyter Extension: Supports Jupyter Notebooks directly within VS Code, enabling interactive data exploration, visualization, and documentation.
+      •	Extensions for Data Science: Includes extensions for data visualization (e.g., Matplotlib, Plotly), data manipulation (e.g., Pandas), and machine learning frameworks (e.g., TensorFlow, PyTorch).
 
 2. Integrated Development Environment:
-•	Built-in Terminal: Allows running Python scripts, executing commands, and managing virtual environments directly within VS Code, streamlining workflow.
-•	Debugger: Powerful debugging capabilities with support for breakpoints, variable inspection, and real-time debugging of Python code, crucial for debugging complex ML models.
+      •	Built-in Terminal: Allows running Python scripts, executing commands, and managing virtual environments directly within VS Code, streamlining workflow.
+      •	Debugger: Powerful debugging capabilities with support for breakpoints, variable inspection, and real-time debugging of Python code, crucial for debugging complex ML models.
 
 3. Version Control and Collaboration:
-•	Git Integration: Seamless integration with Git for version control, enabling code collaboration, branch management, and code review directly within the IDE.
-•	Live Share Extension: Facilitates real-time collaboration where multiple users can edit and debug code simultaneously, beneficial for pair programming and team projects.
+      •	Git Integration: Seamless integration with Git for version control, enabling code collaboration, branch management, and code review directly within the IDE.
+      •	Live Share Extension: Facilitates real-time collaboration where multiple users can edit and debug code simultaneously, beneficial for pair programming and team projects.
 
 4. Customizability and Productivity:
-•	Customizable Interface: Allows customization of themes, keybindings, and layouts to tailor the IDE according to personal preferences and workflow requirements.
-•	Snippet Support: Supports code snippets and shortcuts, enhancing productivity by automating repetitive tasks and facilitating quick code generation.
+      •	Customizable Interface: Allows customization of themes, keybindings, and layouts to tailor the IDE according to personal preferences and workflow requirements.
+      •	Snippet Support: Supports code snippets and shortcuts, enhancing productivity by automating repetitive tasks and facilitating quick code generation.
