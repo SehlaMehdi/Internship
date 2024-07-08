@@ -24,3 +24,18 @@ Menus: Options for File (save, upload, download), Edit (cut, copy, paste), View 
 Code Execution:
 Supports Python code execution directly in the browser.
 Runtime options allow choosing between CPU and GPU, and runtime settings can be adjusted.
+
+Markdown Support:
+Ability to write formatted text using Markdown for documentation and explanations between code cells.
+
+Integration with Google Drive:
+Allows seamless access to files stored in Google Drive.
+Mounting Google Drive provides access to files for reading and writing.
+
+Collaboration Features:
+Real-time collaboration allows multiple users to edit and run the same notebook simultaneously.
+Comments can be added to cells for discussion or notes.
+
+To execute Python code cell in the notebook that Prints Hello Collab
+print("Hello, Google Colab!")
+
