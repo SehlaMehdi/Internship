@@ -1,0 +1,26 @@
+                                                                Assignment-5
+Google Colab, short for Google Colaboratory, is a free cloud-based service provided by Google that allows you to write and execute Python code in a web browser. It offers an integrated development environment (IDE) similar to Jupyter Notebooks, along with several powerful features for data science and machine learning tasks. Here's a brief introduction to Google Colab and its main features:
+Main Features of Google Colab:
+1.	Code Execution: Execute Python code interactively in cells, which can include libraries like NumPy, Pandas, TensorFlow, and more.
+2.	Rich Text Support: Integrate formatted text, equations, images, and even HTML directly into notebooks using markdown cells.
+3.	Built-in Libraries: Colab comes with many popular data science and machine learning libraries pre-installed, reducing setup time.
+4.	External Data Access: Easily import datasets from Google Drive, Google Sheets, or external URLs, making it straightforward to work with data.
+5.	Visualization Tools: Generate plots and visualizations directly within notebooks using libraries like Matplotlib and Seaborn.
+
+Compared to Traditional Python Installations:
+•	No Local Installation: Google Colab eliminates the need for installing Python and libraries locally, making it accessible from any device with internet access.
+•	Scalability: Offers scalable computing resources (like GPUs and TPUs) that may not be readily available or affordable for individual users to set up locally.
+•	Integration with Google Services: Seamlessly integrates with other Google services for data storage, making it easier to work with large datasets stored in Google Drive or Google Cloud.
+
+Key components and features:
+
+Notebook Interface:
+The main interface resembles a Jupyter notebook, with cells that can contain either code or text (Markdown).
+
+Toolbar and Menus:
+Toolbar: Contains buttons for executing cells (Play button), adding new cells (+ Code or + Text), saving (Save) and uploading files (Files).
+Menus: Options for File (save, upload, download), Edit (cut, copy, paste), View (toggle line numbers, runtime settings), Insert (insert code or text cells), Runtime (change runtime type, manage sessions), and Help (access to documentation).
+
+Code Execution:
+Supports Python code execution directly in the browser.
+Runtime options allow choosing between CPU and GPU, and runtime settings can be adjusted.
