@@ -19,3 +19,33 @@ In Python, a virtual environment is like a private workspace for each of your pr
 •  Conflict Management:
 •	Without virtual environments, installing or updating libraries globally can lead to conflicts between different projects or system-level dependencies.
 •	Virtual environments prevent such conflicts by keeping dependencies isolated within each project.
+
+
+To create Virtual Environment named "ml_env" using the venv module
+
+Step 1: Create and activate the virtual environment:
+
+Open a terminal or command prompt and execute the following commands:
+For Windows:
+# Create virtual environment named ml_env
+python -m venv ml_env
+
+# Activate the virtual environment
+ml_env\Scripts\activate
+
+Step 2: Install NumPy in the virtual environment:
+While the virtual environment is active (ml_env), install NumPy:
+
+pip install numpy
+
+Step 3: Write a Python script using NumPy:
+Finding Inner Product of two vectors using Numpy Library
+
+import numpy as np
+A=np.array ([2,1,5,4])
+B=np.array([3,4,7,8])
+output=np.dot(A,B)
+print(output)
+
+Step 4: Run the Python script:
+Output= 77
