@@ -25,3 +25,7 @@ Why VS?
 4. Customizability and Productivity:
       •	Customizable Interface: Allows customization of themes, keybindings, and layouts to tailor the IDE according to personal preferences and workflow requirements.
       •	Snippet Support: Supports code snippets and shortcuts, enhancing productivity by automating repetitive tasks and facilitating quick code generation.
+
+
+  A simple Python program in VS Code that prints "Hello, Python!"
+     print("Hello, Python!")
