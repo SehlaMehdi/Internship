@@ -78,4 +78,30 @@ View Directory Contents with Details (dir)
      Example Output:
      cmd
     Directory of C:\Users\Username\Documents
-   
+File Manipulation: Create, copy, move, and delete files and directories usingcommand-line commands.    
+1. Linux Terminal
+Create a File
+     Command:
+     touch file.txt
+     Explanation: Creates an empty file named file.txt.
+Copy a File
+     Command:
+     cp file.txt file_copy.txt
+     Explanation: Copies file.txt to a new file named file_copy.txt.
+Move a File
+     Command:
+     mv file_copy.txt /path/to/destination/
+     Explanation: Moves file_copy.txt to the specified destination directory. You can also use this command to rename a file.
+Delete a File
+     Command:
+     rm file.txt
+     Explanation: Deletes file.txt.
+Create a Directory
+     Command:
+     mkdir new_directory
+     Explanation: Creates a directory named new_directory.
+Delete a Directory
+     Command:
+     rmdir new_directory
+     Explanation: Deletes new_directory (only if it is empty). To delete a non-empty directory, use:
+     rm -r new_directory
