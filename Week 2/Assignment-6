@@ -1,0 +1,85 @@
+                                                              Assignment-6
+1. Linux Terminal Commands
+Print Working Directory (pwd)
+   Purpose: Displays the current directory you are in.
+   Command:
+   pwd
+   Example Output:
+   /home/user
+List Directory Contents (ls)
+    Purpose: Lists all files and directories in the current directory.
+    Command:
+    ls
+    Example Output:
+    Documents  Downloads  Pictures  Videos
+Change Directory (cd)
+    Purpose: Navigates to a different directory.
+    Command to move into the Documents directory:
+    cd Documents
+    Command to move up one directory level:
+    cd ..
+    Command to navigate to a specific path, e.g., Downloads:
+    cd /home/user/Downloads
+    Command to return to the home directory:
+    cd ~
+    Example Output after moving into Documents and using pwd:
+    /home/user/Documents
+View Directory Contents with Details (ls -l)
+     Purpose: Lists files and directories with detailed information.
+     Command:
+     ls -l
+     Example Output:
+     drwxr-xr-x  2 user user 4096 Aug  9 12:00 Documents
+     drwxr-xr-x  5 user user 4096 Aug  9 12:00 Downloads
+
+2. Windows Command Prompt Commands
+Print Working Directory (cd)
+     Purpose: Displays the current directory you are in.
+     Command:
+     cmd
+     cd
+     Example Output:
+     cmd
+     C:\Users\Username
+List Directory Contents (dir)
+     Purpose: Lists all files and directories in the current directory.
+     Command:
+     cmd
+     dir
+     Example Output: 
+     cmd
+     Volume in drive C has no label.
+     Volume Serial Number is XXXX-XXXX
+     Directory of C:\Users\Username
+     08/09/2024  01:00 PM    <DIR>          Documents
+     08/09/2024  01:00 PM    <DIR>          Downloads
+     08/09/2024  01:00 PM    <DIR>          Pictures
+Change Directory (cd)
+     Purpose: Navigates to a different directory.
+     Command to move into the Documents directory:
+     cmd
+     cd Documents
+     Command to move up one directory level:
+     cmd
+     cd ..
+     Command to navigate to a specific path, e.g., Downloads:
+     cmd
+     cd C:\Users\Username\Downloads
+     Command to return to the root of the C: drive:
+     cmd
+     Copy code
+     cd C:\
+     Example Output after moving into Documents and using cd:
+     cmd
+     C:\Users\Username\Documents
+View Directory Contents with Details (dir)
+     Purpose: Lists files and directories with detailed information.
+     Command:
+     cmd
+     dir
+     Example Output:
+     cmd
+    Directory of C:\Users\Username\Documents
+    08/09/2024  01:00 PM    <DIR>          .
+    08/09/2024  01:00 PM    <DIR>          ..
+    08/09/2024  01:00 PM                 123 example.txt
