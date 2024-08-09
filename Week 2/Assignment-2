@@ -1,0 +1,48 @@
+                                                              Assignment-2
+1. Setting Up GitHub
+Create an Account:
+Visit GitHub.
+Click on "Sign up" in the upper-right corner.
+Enter your email address, create a password, and choose a username.
+Follow the prompts to verify your email address and complete the account setup.
+
+2. Repository Creation
+Create a New Repository:
+Log in to your GitHub account.
+Click on the "+" icon in the upper-right corner and select "New repository".
+Name your repository "my-first-repo".
+Optionally, add a description and choose "Public" visibility.
+Initialize the repository with a README if you prefer.
+Click "Create repository"
+
+ Repository Cloning
+Clone the Repository:
+
+On the repository page, click the "Code" button.
+
+Copy the URL under "Clone with HTTPS".
+
+Open your terminal and navigate to the directory where you want to clone the repository.
+
+Run the following command:
+
+bash
+Copy code
+git clone https://github.com/YOUR_USERNAME/my-first-repo.git
+Screenshot:
+(Here you would provide a screenshot of your terminal showing the git clone command output. You can capture it using tools like Snipping Tool on Windows, Screenshot on macOS, or a similar utility.)
+
+4. Collaborative Workflow
+Invite a Collaborator:
+
+Go to the repository settings by clicking on the "Settings" tab on your repository page.
+Select "Collaborators & teams" from the sidebar.
+Enter your classmate’s or friend's GitHub username or email and click "Add collaborator".
+Your collaborator will receive an invitation to access and contribute to your repository.
+Collaborator Actions:
+
+Your collaborator should:
+Fork your repository by clicking the "Fork" button on your repository page.
+Make changes to their forked repository.
+Create a pull request from their fork to your original repository.
+Go to the "Pull requests" tab on your repository page to review and merge the pull request.
